@@ -1,3 +1,4 @@
+dex,string,name,hp,atk,def,spa,spd,spe,bst,type1,type2,abil1,abil2,abilh,abile
 1,bulbasaur,Bulbasaur,45,49,49,65,65,45,318,Grass,Poison,Overgrow,,Chlorophyll,
 2,ivysaur,Ivysaur,60,62,63,80,80,60,405,Grass,Poison,Overgrow,,Chlorophyll,
 3,venusaur,Venusaur,80,82,83,100,100,80,525,Grass,Poison,Overgrow,,Chlorophyll,
